@@ -9,6 +9,7 @@ public class Test {
 		emp.setName("rajesh");
 		System.out.println("id :"+emp.getId()+", name : "+emp.getName());
 		System.out.println("rajesh git");
+		
 	}
 
 }
